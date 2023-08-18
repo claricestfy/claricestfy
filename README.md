@@ -14,10 +14,11 @@
  
  ## Main skills:
 
+<a href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript" target="_blank">
+ <img align="left" title="Javascript" alt="Javascript" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>         
+<a/>
 
-
-
-### Studying in this moment:
+## Studying in this moment:
 ![React.js](https://img.shields.io/badge/-React.js-0D1117?style=for-the-badge&logo=react&labelColor=0D1117)&nbsp;
 ![Typescript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117&textColor=0D1117)&nbsp;
 ![Node.JS](https://img.shields.io/badge/-Node.JS-0D1117?style=for-the-badge&logo=node.js&labelColor=0D1117&textColor=0D1117)&nbsp;
