@@ -13,9 +13,13 @@
  </div>
  
  ## Main skills:
-
 <a href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript" target="_blank">
  <img align="left" title="Javascript" alt="Javascript" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>         
+<a/>
+
+<a href="https://www.postgresql.org/" target="_blank">
+ <img align="left" title="Postgresql" alt="Postgresql" width="40px" 
+src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg"/>        
 <a/>
 
 ## Studying in this moment:
