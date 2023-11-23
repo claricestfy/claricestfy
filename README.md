@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=9f279f&height=150&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=9f279f&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Clarice+Nascimento;I'm+27+years+old;I'm+from+Brazil;I+Graduated+systems+Development;Be+Welcome!+:%29)](https://git.io/typing-svg)<br><br>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=9f279f&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Clarice+Nascimento;I'm+28+years+old;I'm+from+Brazil;I+Graduated+systems+Development;Be+Welcome!+:%29)](https://git.io/typing-svg)<br><br>
 
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=claricestfy&bg_color=0d1117&color=bf4abe&line=bf4abe&point=ff90fd&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
@@ -42,18 +42,12 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-or
 <a/>
 
 ## Studying in this moment:
-<a href="https://vuejs.org/" target="_blank">
- <img align="left" title="Vue" alt="Vue" width="40px"
-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg"/>
+<a href="https://www.java.com/pt-BR/" target="_blank">
+ <img align="left" title="Java" alt="Java" width="40px"
+src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
 <a/>
  
-<a href="https://ionicframework.com/" target="_blank">
- <img align="left" title="Ionic" alt="Ionic" width="40px"
-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ionic/ionic-original.svg"/>
+<a href="https://angularjs.org" target="_blank">
+ <img align="left" title="Angular" alt="Angular" width="40px"
+src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg"/>
 <a/>
-
-<a href="https://nodejs.org/en" target="_blank">
- <img align="left" title="Node" alt="Node" width="40px"
-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"/>
-<a/><br><br><br>
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=9f279f&height=120&section=footer"/>
