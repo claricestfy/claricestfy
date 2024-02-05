@@ -13,19 +13,10 @@
 
 <div align="center">
 <a href = "mailto:cmp.1a.claricestfy@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-<a href="https://www.linkedin.com/in/carolbarbosa/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="border-radius: 30px" target="_blank"></a><br>
+<a href="https://www.linkedin.com/in/clarice-nascimento-b721712a2" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="border-radius: 30px" target="_blank"></a><br>
  </div>
  
  ## Main skills:
-<a href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript" target="_blank">
- <img align="left" title="Javascript" alt="Javascript" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>         
-<a/>
-
-<a href="https://www.typescriptlang.org/" target="_blank">
- <img align="left" title="Typescript" alt="Typescript" width="40px" 
-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"/>      
-<a/>
-
 <a href="https://developer.mozilla.org/pt-BR/docs/Web/HTML" target="_blank">
  <img align="left" title="Html" alt="Html" width="40px" 
 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/>     
@@ -35,6 +26,20 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg
  <img align="left" title="Css" alt="Css" width="40px" 
 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/>     
 <a/>
+ 
+<a href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript" target="_blank">
+ <img align="left" title="Javascript" alt="Javascript" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>         
+<a/>
+
+<a href="https://www.typescriptlang.org/" target="_blank">
+ <img align="left" title="Typescript" alt="Typescript" width="40px" 
+src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"/>      
+<a/>
+
+<a href="https://tailwindcss.com/" target="_blank">
+ <img align="left" title="Tailwind" alt="Tailwind" width="40px" 
+src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg"/>     
+<a/>
 
 <a href="https://www.postgresql.org/" target="_blank">
  <img align="left" title="Postgresql" alt="Postgresql" width="40px" 
@@ -42,12 +47,12 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-or
 <a/>
 
 ## Studying in this moment:
-<a href="https://www.java.com/pt-BR/" target="_blank">
- <img align="left" title="Java" alt="Java" width="40px"
-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
+<a href="https://react.dev/" target="_blank">
+ <img align="left" title="React" alt="React" width="40px"
+src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"/>
 <a/>
  
-<a href="https://angularjs.org" target="_blank">
- <img align="left" title="Angular" alt="Angular" width="40px"
-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg"/>
+<a href="https://nodejs.org/en" target="_blank">
+ <img align="left" title="Node" alt="Node" width="40px"
+src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"/>
 <a/>
