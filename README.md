@@ -38,7 +38,7 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-or
 
 <a href="https://tailwindcss.com/" target="_blank">
  <img align="left" title="Tailwind" alt="Tailwind" width="40px" 
-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg"/>     
+src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original-wordmark.svg"/>     
 <a/>
 
 <a href="https://www.postgresql.org/" target="_blank">
